@@ -1,0 +1,5 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NotoSerifBold.ttf"); font-family : "Noto Serif"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NotoSerifMedium.ttf"); font-family : "Noto Serif"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NotoSerifRegular.ttf"); font-family : "Noto Serif"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NotoSerifBlack.ttf"); font-family : "Noto Serif"; font-weight : 900;  }
